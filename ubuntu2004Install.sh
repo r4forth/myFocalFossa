@@ -21,7 +21,16 @@ sudo apt autoremove -y
 # 設定 vim 套件管理系統
 # =============================================================================
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-# 載入 myBionic 專案，裡面有常用的設定檔與資料檔 
-git clone https://github.com/r4forth/myBionic.git
+# 載入 myFocalFossa 專案，裡面有常用的設定檔與資料檔 
+git clone https://github.com/r4forth/myFocalFossa.git
 # 複製 vimrc，讓 vim 使用比較便利
-cp ~/myBionic/vimrc ~/.vimrc
+cp ~/myFocalFossa/vimrc ~/.vimrc
+# =============================================================================
+# 常用軟體安裝
+# =============================================================================
+# 1. 文字編輯器 VSCode
+# 2. VLC
+# 3. 看圖軟體
+# 4. 抓圖軟體
+# 5. 檔案傳輸軟體
+
